@@ -15,4 +15,4 @@ echo "i'm sorry $name i've sleept for 5s second please excuse me another 5s"
 
 sleep 5
 
-echo "okey $name i showed you how i sleept good bye i've to go"
+echo "okey $name i showed you how i sleept good bye see you next Try"
