@@ -1,10 +1,18 @@
 #!/bin/bash
-echo "hey i'm trying up to learn bash scripting for the first time on my part time"
+echo "hey i'm the bash script who will be take a time with you "
 
 sleep 1
 
-echo "i've sleept for 1 second please excuse me another 10s"
+echo "can you give me your name"
 
-sleep 10
+read name
 
-echo "okey good bye i've to be executed"
+echo "hey  $name i'm trying up to show you how i sleep"
+
+sleep 5
+
+echo "i'm sorry $name i've sleept for 5s second please excuse me another 5s"
+
+sleep 5
+
+echo "okey $name i showed you how i sleept good bye i've to go"
